@@ -8,14 +8,14 @@ I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee love
 
 ### so, what i'm up to?
 
-- 🔭 I’m currently working on something awesome!🔥
-- 🌱 I’m currently learning Android Integration with Flutter
+- 🔭 I’m currently working at Stone Co!💚
+- 🌱 I’m currently learning general Android stuff!
 - 👯 I’m looking to collaborate on Any cross-platform Project
 - 💬 Ask me about Architecture Components or anything Android related
 
 ## 👨‍💻 experience
+- Android
 - Xamarin (Platform and Forms)
-- Android (Kotlin)
 - Flutter
 - React Native
 
