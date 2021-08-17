@@ -1,6 +1,6 @@
 # Opa, bão 👋
 
-Hi, my name is **Eduardo Martins**, and i'm the world's okayest **mobile developer** living in **Rio de Janeiro** <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />.
+Hi, my name is **Eduardo Martins**, and i'm the world's okayest **mobile developer** living in **Cuiabá - MT** <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />.
 
 I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee lover and a **future Android Architect** 💚💚.  
 
