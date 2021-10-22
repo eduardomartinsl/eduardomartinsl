@@ -1,6 +1,6 @@
 # Opa, bão 👋
 
-Hi, my name is **Eduardo Martins**, and i'm the world's okayest **mobile developer** living in **Cuiabá - MT** <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />.
+Hi, my name is **Eduardo Martins**, and i'm the world's okayest **mobile developer** living in **Cuiabá - MT** <img width="16" src="https://cdn-icons-png.flaticon.com/512/197/197386.png" alt="Brazil" />.
 
 I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee lover and a **future Android Architect** 💚💚.  
 
@@ -21,11 +21,11 @@ I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee love
 
 ### 📫 Contacting me 📫
 <a href="https://www.linkedin.com/in/eduardomartinsl/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://img.icons8.com/color/48/000000/linkedin.png" /></code>
 </a>
 
 <a href="mailto:emartinslemos@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://img.icons8.com/color/48/000000/gmail--v1.png" /></code>
 </a>
 
 #
