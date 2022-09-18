@@ -1,6 +1,6 @@
 # Opa, bão 👋
 
-Hi, my name is **Eduardo Martins**, and i'm the world's okayest **mobile developer** living in **Cuiabá - MT** <img width="16" src="https://cdn-icons-png.flaticon.com/512/197/197386.png" alt="Brazil" />.
+Hi, my name is **Eduardo Martins**, and i'm the world's okayest **android developer** living in **Cuiabá - MT** <img width="16" src="https://cdn-icons-png.flaticon.com/512/197/197386.png" alt="Brazil" />.
 
 I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee lover and a **future Android Architect** 💚💚.  
 
@@ -8,9 +8,9 @@ I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee love
 
 ### so, what i'm up to?
 
-- 🔭 I’m currently working at Stone Co!💚
-- 🌱 I’m currently learning general Android stuff!
-- 👯 I’m looking to collaborate on Any cross-platform Project
+- 🔭 I’m currently working at Neon
+- 🌱 I’m currently learning general Android architecture
+- 👯 I’m looking to collaborate on any mobile cross-platform Project
 - 💬 Ask me about Architecture Components or anything Android related
 
 ## 👨‍💻 experience
