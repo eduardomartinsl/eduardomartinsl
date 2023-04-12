@@ -1,10 +1,10 @@
 # Opa, bão 👋
 
-Hi, my name is **Eduardo Martins**, and i'm the world's okayest **android developer** living in **Cuiabá - MT** <img width="16" src="https://media0.giphy.com/media/10mzF0YmVmZNuw/giphy.gif" alt="Brazil" />.
+Hi, my name is **Eduardo Martins**, and i'm the world's okayest **android developer** living in **Cuiabá - MT** <img width="16" src="https://cdn-icons-png.flaticon.com/512/197/197386.png" alt="Brazil" />.
 
 I'm an cross platform enthusiastic (Secretly I prefer Android 🤫), coffee lover and a **future Android Architect** 💚💚.  
 
-<img align="right" width="40%" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="20%" src="https://media0.giphy.com/media/10mzF0YmVmZNuw/giphy.gif" alt="Basecamp sky" />
 
 ### so, what i'm up to?
 
